@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  border: 1px solid gray;
+  margin: 50px 0;
+}
+
+.item {
+  flex: 0 0 20%;
+  background: #737e7e;
+  border: 1px solid black;
+}
